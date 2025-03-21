@@ -1,6 +1,4 @@
-#include <stdio.h>
-//Iniciando o nível novato para a criação do jogo: Super Trunfo - Países.
-
+#include <stdio.h> //Iniciando o nível novato para a criação do jogo: Super Trunfo - Países.
 int main() {
     printf("Super Trunfo! - Nível Novato.\n\n");
 
@@ -63,6 +61,5 @@ int main() {
     printf("PIB: %.1f bilhões de reais\n", PIB2);
     printf("Pontos turísticos: %d\n\n", PontosTuristicos2);
 
-return 0;
-//Programa finalizado, com duas cartas rodando normalmente.
+return 0; //Programa finalizado, com duas cartas rodando normalmente.
     }
