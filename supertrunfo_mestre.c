@@ -1,8 +1,8 @@
 #include <stdio.h> 
-//Iniciando o nível aventureiro para a criação do jogo: Super Trunfo - Países.
+//Iniciando o nível mestre para a criação do jogo: Super Trunfo - Países.
 
 int main (){
-    printf("Super Trunfo! - Desafio Aventureiro.\n");
+    printf("Super Trunfo! - Desafio Mestre.\n");
 
 // Serão inseridas apenas duas cartas do jogo por enquanto, com as variáveis abaixo:
     char estado1, estado2; 
