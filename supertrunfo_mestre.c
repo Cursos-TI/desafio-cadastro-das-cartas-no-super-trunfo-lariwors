@@ -20,9 +20,6 @@ int main (){
 //SUPER PODER: soma de todas as propriedades
     float SuperPoder1, SuperPoder2;
 
-//RESULTADO das cartas.
-
-
 //Entrada da carta 1:
     printf("\nDigite os dados da primeira carta:\n");
 
@@ -111,5 +108,5 @@ int main (){
     printf("Super Poder: A carta %d venceu!!\n", 2 - (SuperPoder1 > SuperPoder2)); 
 
 return 0;
-//Programa finalizado, com duas cartas rodando normalmente.
+//Programa finalizado, com duas cartas rodando normalmente e obtendo o resultado da carta ganhadora!
     }
