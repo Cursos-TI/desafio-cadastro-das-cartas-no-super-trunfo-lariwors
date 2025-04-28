@@ -1,5 +1,5 @@
 #include <stdio.h> 
-//Iniciando o nível aventureiro para a criação do jogo: Super Trunfo - Países.
+//Iniciando o nível novato para a criação do jogo: Super Trunfo - Países.
 
 int main (){
     printf("Super Trunfo! - Desafio Novato.\n");
